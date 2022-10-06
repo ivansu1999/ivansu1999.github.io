@@ -1,7 +1,17 @@
 # Sea turtle
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg/440px-Chelonia_mydas_is_going_for_the_air_edit.jpg)
 
-**Sea turtles** (superfamily **Chelonioidea**), sometimes called **marine turtles**, are reptiles of the order [Testudines](https://en.wikipedia.org/wiki/Testudines) and of the suborder [Cryptodira](https://en.wikipedia.org/wiki/Cryptodira). The seven existing species of sea turtles are the [flatback](https://en.wikipedia.org/wiki/Flatback_sea_turtle), [green](https://en.wikipedia.org/wiki/Green_sea_turtle), [hawksbill](https://en.wikipedia.org/wiki/Hawksbill_sea_turtle), [leatherback](https://en.wikipedia.org/wiki/Leatherback_sea_turtle), [loggerhead](https://en.wikipedia.org/wiki/Loggerhead_sea_turtle), [Kemp's ridley](https://en.wikipedia.org/wiki/Kemp%27s_ridley_sea_turtle), and [olive ridley](https://en.wikipedia.org/wiki/Olive_ridley_sea_turtle) sea turtles. All six of the sea turtle species present in US waters (all of those listed above except the flatback) are listed as endangered and/or threatened under the [Endangered Species Act](https://en.wikipedia.org/wiki/Endangered_Species_Act_of_1973). The seventh sea turtle species is the flatback, which exists in the waters of Australia, Papua New Guinea and Indonesia. Sea turtles can be separated into the categories of hard-shelled ([cheloniid](https://en.wikipedia.org/wiki/Cheloniidae)) and leathery-shelled ([dermochelyid](https://en.wikipedia.org/wiki/Dermochelyidae)). There is only one dermochelyid species which is the leatherback sea turtle.
+**Sea turtles** (superfamily **Chelonioidea**), sometimes called **marine turtles**, are reptiles of the order:[Testudines](https://en.wikipedia.org/wiki/Testudines) and of the suborder [Cryptodira](https://en.wikipedia.org/wiki/Cryptodira). The seven existing species of sea turtles are the:
+
+- [flatback](https://en.wikipedia.org/wiki/Flatback_sea_turtle),
+- [green](https://en.wikipedia.org/wiki/Green_sea_turtle),
+- [hawksbill](https://en.wikipedia.org/wiki/Hawksbill_sea_turtle), 
+- [leatherback](https://en.wikipedia.org/wiki/Leatherback_sea_turtle), 
+- [loggerhead](https://en.wikipedia.org/wiki/Loggerhead_sea_turtle), 
+- [Kemp's ridley](https://en.wikipedia.org/wiki/Kemp%27s_ridley_sea_turtle),
+- [olive ridley](https://en.wikipedia.org/wiki/Olive_ridley_sea_turtle)
+
+All six of the sea turtle species present in US waters (all of those listed above except the flatback) are listed as endangered and/or threatened under the [Endangered Species Act](https://en.wikipedia.org/wiki/Endangered_Species_Act_of_1973). The seventh sea turtle species is the flatback, which exists in the waters of Australia, Papua New Guinea and Indonesia. Sea turtles can be separated into the categories of hard-shelled ([cheloniid](https://en.wikipedia.org/wiki/Cheloniidae)) and leathery-shelled ([dermochelyid](https://en.wikipedia.org/wiki/Dermochelyidae)). There is only one dermochelyid species which is the leatherback sea turtle.
 
 
 
